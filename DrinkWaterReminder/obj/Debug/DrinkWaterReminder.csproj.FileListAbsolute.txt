@@ -1,0 +1,11 @@
+E:\IDE\.Net\Projects\DrinkWaterReminder\DrinkWaterReminder\bin\Debug\DrinkWaterReminder.exe.config
+E:\IDE\.Net\Projects\DrinkWaterReminder\DrinkWaterReminder\bin\Debug\DrinkWaterReminder.exe
+E:\IDE\.Net\Projects\DrinkWaterReminder\DrinkWaterReminder\bin\Debug\DrinkWaterReminder.pdb
+E:\IDE\.Net\Projects\DrinkWaterReminder\DrinkWaterReminder\obj\Debug\DrinkWaterReminder.csprojAssemblyReference.cache
+E:\IDE\.Net\Projects\DrinkWaterReminder\DrinkWaterReminder\obj\Debug\DrinkWaterReminder.Properties.Resources.resources
+E:\IDE\.Net\Projects\DrinkWaterReminder\DrinkWaterReminder\obj\Debug\DrinkWaterReminder.csproj.GenerateResource.cache
+E:\IDE\.Net\Projects\DrinkWaterReminder\DrinkWaterReminder\obj\Debug\DrinkWaterReminder.csproj.CoreCompileInputs.cache
+E:\IDE\.Net\Projects\DrinkWaterReminder\DrinkWaterReminder\obj\Debug\DrinkWaterReminder.exe
+E:\IDE\.Net\Projects\DrinkWaterReminder\DrinkWaterReminder\obj\Debug\DrinkWaterReminder.pdb
+E:\IDE\.Net\Projects\DrinkWaterReminder\DrinkWaterReminder\obj\Debug\DrinkWaterReminder.Main.resources
+E:\IDE\.Net\Projects\DrinkWaterReminder\DrinkWaterReminder\obj\Debug\DrinkWaterReminder.Bomb.resources
