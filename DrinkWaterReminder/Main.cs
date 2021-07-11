@@ -51,7 +51,7 @@ namespace DrinkWaterReminder
         {
             pictureBox.Visible = true;
             int interval = (int)numericUpDown.Value;
-            timer.Interval = interval * 1000;
+            timer.Interval = interval * 1000 * 60;
             timer.Start();
         }
 
